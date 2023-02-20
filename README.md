@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://res.cloudinary.com/dn6qjddsi/image/upload/v1676859530/Aavatar/avatar-icon-images-4_iewqiz.png" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Erlangga, a full-time full-stack developer</div>  
   
 
