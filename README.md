@@ -1,7 +1,6 @@
-### <div align="center">I'm Erlangga, a full-time full-stack developer</div>  
+### <div align="center">I'm Erlangga, a Software Engineer</div>  
   
 
-- 🌱 I’m currently learning Docker and Pattern Arch  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
